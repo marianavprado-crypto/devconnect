@@ -1,0 +1,21 @@
+.inicio{
+    display: flex;
+    gap: 0;
+    align-items: center;
+}
+h2{
+    color: #F5A623;
+    font-size: 14px;
+
+}
+
+.destaque{ 
+ background-color:  #163A5F;
+height: 14px;
+
+  font-size: 14px;
+
+}
+p{
+    color: rgb(135, 64, 64);
+}
