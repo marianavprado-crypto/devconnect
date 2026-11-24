@@ -1,4 +1,5 @@
 .inicio{
+    background-color: #163A5F;
     display: flex;
     gap: 0;
     align-items: center;
@@ -25,4 +26,13 @@ p{
 .texto2{
      font-size: 16px;
     color: rgb(135, 64, 64);
+}
+.informacoes{
+       font-size: 12px;
+    display: flex;
+}
+button{
+    display: inline;
+    list-style-type: none
+    color: #F5A623;
 }
